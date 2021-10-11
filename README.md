@@ -5,3 +5,8 @@ This yould be used to
 - work as a team
 - use tools for the future
 - Get Pull Request for Hacktoberfest
+
+History :
+
+## 2021 : 
+- Github released (or talked about) companion, for coding.
