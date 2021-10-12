@@ -22,3 +22,8 @@ History :
 - Github released (or talked about) companion, for coding.
 
 Time flies guys and it's now 2021 feel free to contribute on the repo again thanks for all the people around the world
+
+
+## Contribute:
+- set your profil in add your name.txt
+- And add your piece of code it can be an hello_world
