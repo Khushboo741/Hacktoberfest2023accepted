@@ -5,3 +5,5 @@ This yould be used to
 - work as a team
 - use tools for the future
 - Get Pull Request for Hacktoberfest
+
+Time flies guys and it's now 2021 feel free to contribute on the repo again thanks for all the people around the world
