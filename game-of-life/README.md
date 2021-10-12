@@ -32,7 +32,7 @@ templates and usages of `wasm-pack`.
 
 ## 🚴 Usage
 
-### 🐑 Use `cargo generate` to Clone this Template
+### ⛵ Use `cargo generate` to Clone this Template
 
 [Learn more about `cargo generate` here.](https://github.com/ashleygwilliams/cargo-generate)
 
