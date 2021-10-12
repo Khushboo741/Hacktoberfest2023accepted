@@ -15,5 +15,5 @@ extern {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, game-of-life!");
+    alert("Hello, game-of-life !");
 }
