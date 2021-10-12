@@ -15,4 +15,10 @@ This yould be used to
 - use tools for the future
 - Get Pull Request for Hacktoberfest
 
+History :
+
+## 2021 : 
+- Github released (or talked about) companion, for coding.
+
 Time flies guys and it's now 2021 feel free to contribute on the repo again thanks for all the people around the world
+
