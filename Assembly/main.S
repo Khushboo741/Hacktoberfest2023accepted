@@ -16,6 +16,7 @@ _start:
 
     lea rdi, [array]
     mov rsi, 200
+    mov rax, 60
 
     call read_string
 
@@ -44,5 +45,10 @@ pexit:
 array:
 .fill 200, 1, 0
 
+arrayy:
+.fill 0x100, 1, 0
+
+
 copy:
 .fill 200, 1, 0
+
