@@ -22,6 +22,14 @@ History :
 
 Time flies guys and it's now 2021 feel free to contribute on the repo again thanks for all the people around the world
 
+## 2022 : 
+
+Keeping this repo updated since we are not anymore in cs school !
+We discovered PR and open source community in 2018 we decided to do a presentation in our engineering school association to celebrate this event.
+
+We continue to participate in our respective company.
+
+Thank you all for your contributions.
 
 ## Contribute:
 - set your profil in add your name.txt
